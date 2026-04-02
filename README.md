@@ -68,10 +68,3 @@ Run tests:
 ```bash
 xcodebuild test -project "NutriFuel.xcodeproj" -scheme "NutriFuel"
 ```
-
-## Contributing
-
-- Follow the existing MVVM + repository pattern
-- Keep changes focused
-- Test calculation/parsing/model changes; manually test scanner flows on a real device
-- Make sure it builds clean before opening a PR
